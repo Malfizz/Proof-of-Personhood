@@ -2,7 +2,7 @@
 A Sybil-proof identity system powered by decentralized AI human detection
 
 ## Demo
-Click here to try: 
+Click here to try :
 
 [Open Demo website](https://yakuo-miaaa-aaaai-acjfq-cai.ic0.app/)
 
