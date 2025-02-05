@@ -27,7 +27,7 @@ const Footer: React.FC<FooterProps> = (props) => {
           <a href="https://astrox.medium.com/" target="_blank">
             <img src={mediu} alt="" />
           </a>
-          <a href="https://github.com/AstroxNetwork" target="_blank">
+          <a href="https://github.com/Malfizz" target="_blank">
             <img src={github} alt="" />
           </a>
         </div>
